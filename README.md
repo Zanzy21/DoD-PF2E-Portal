@@ -17,10 +17,10 @@ Included
 
 Installation
 
-Please add the following 'Homebrew Elements' BEFORE installing the module.
+1.) Please add the following 'Homebrew Elements' BEFORE installing the module.
 
 ![Homebrew Elements](https://github.com/Zanzy21/DoD-PF2E-Portal/assets/112660206/e28ad02e-b33e-4adc-802e-ad50d2e2f6de)
 
-Navigate to Game Settings > Configure Settings > Pathfinder 2nd Edition > Homebrew Elements and add the elements as seen in the picture.
+  Navigate to Game Settings > Configure Settings > Pathfinder 2nd Edition > Homebrew Elements and add the elements as seen in the picture.
 
-Install in Foundry using the manifest URL like you can with other Foundry modules.
+2.) Install in Foundry using the manifest URL like you can with other Foundry modules.
