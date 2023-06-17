@@ -24,3 +24,7 @@ Installation
   Navigate to Game Settings > Configure Settings > Pathfinder 2nd Edition > Homebrew Elements and add the elements as seen in the picture.
 
 2.) Install in Foundry using the manifest URL like you can with other Foundry modules.
+
+3.) Search for 'dodr' in the Compendium Packs tab in Foundry to find the newly added compendiums.
+
+4.) Import what you need into your game world. Done!
