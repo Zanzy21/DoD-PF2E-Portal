@@ -1,0 +1,82 @@
+{
+    "name": "drakkenheim-adventure-module-for-pathfinder-2nd-edition",
+    "title": "Drakkenheim Adventure Module for Pathfinder 2nd Edition",
+    "author": "Zanzabar21",
+    "description": "",
+    "packs": [
+        {
+            "name": "dodrakkenheim-monsters",
+            "label": "DoDrakkenheim - Monsters",
+            "type": "Actor",
+            "system": "pf2e",
+            "path": "packs/dodrakkenheim-monsters.db",
+            "entity": "Actor",
+            "module": "drakkenheim-adventure-module-for-pathfinder-2nd-edition"
+        },
+        {
+            "name": "dodrakkenheim-effects",
+            "label": "DoDrakkenheim - Effects",
+            "type": "Item",
+            "system": "pf2e",
+            "path": "packs/dodrakkenheim-effects.db",
+            "entity": "Item",
+            "module": "drakkenheim-adventure-module-for-pathfinder-2nd-edition"
+        },
+        {
+            "name": "dodrakkenheim-journals",
+            "label": "DoDrakkenheim - Journals",
+            "type": "JournalEntry",
+            "path": "packs/dodrakkenheim-journals.db",
+            "entity": "JournalEntry",
+            "module": "drakkenheim-adventure-module-for-pathfinder-2nd-edition"
+        },
+        {
+            "name": "dodrakkenheim",
+            "label": "DoDrakkenheim",
+            "type": "Adventure",
+            "system": "pf2e",
+            "path": "packs/dodrakkenheim.db",
+            "entity": "Adventure",
+            "module": "drakkenheim-adventure-module-for-pathfinder-2nd-edition"
+        },
+        {
+            "name": "dodrakkenheim-spells",
+            "label": "DoDrakkenheim - Spells",
+            "type": "Item",
+            "system": "pf2e",
+            "path": "packs/dodrakkenheim-spells.db",
+            "entity": "Item",
+            "module": "drakkenheim-adventure-module-for-pathfinder-2nd-edition"
+        },
+        {
+            "name": "dodrakkenheim-magic-items",
+            "label": "DoDrakkenheim - Magic Items",
+            "type": "Item",
+            "system": "pf2e",
+            "path": "packs/dodrakkenheim-magic-items.db",
+            "entity": "Item",
+            "module": "drakkenheim-adventure-module-for-pathfinder-2nd-edition"
+        },
+        {
+            "name": "dodrakkenheim-scenes",
+            "label": "DoDrakkenheim - Scenes",
+            "type": "Scene",
+            "path": "packs/dodrakkenheim-scenes.db",
+            "entity": "Scene",
+            "module": "drakkenheim-adventure-module-for-pathfinder-2nd-edition"
+        }
+    ],
+    "id": "drakkenheim-adventure-module-for-pathfinder-2nd-edition",
+    "authors": [
+        {
+            "name": "Zanzabar21"
+        }
+    ],
+    "minimumCoreVersion": "0.8.0",
+    "compatibleCoreVersion": "9",
+    "compatibility": {
+        "minimum": 9,
+        "verified": 10
+    },
+    "version": "1.1"
+}
